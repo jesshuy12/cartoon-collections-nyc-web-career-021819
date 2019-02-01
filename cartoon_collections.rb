@@ -1,5 +1,6 @@
-def roll_call_dwarves
-  
+def roll_call_dwarves(array)
+  array.each_with_index do |num|
+    
 end
 
 def summon_captain_planet
